@@ -1,0 +1,28 @@
+{
+  "questions": [
+    {
+      "question": "Hello!",
+      "answer": "Hi!"
+    },
+    {
+      "question": "How are you?",
+      "answer": "I'm good thanks!"
+    },
+    {
+      "question": "What did you do today?",
+      "answer": "Well, I have learned a lot of answers today from humans!"
+    },
+    {
+      "question": "Thats' great!",
+      "answer": "I think so too! :) "
+    },
+    {
+      "question": "Great!",
+      "answer": "I think so :) "
+    },
+    {
+    "question": "What do you do for a living?",
+    "answer": "I don't make money. I'm a chatbot helping humans answering their questions "
+    }
+  ]
+}
